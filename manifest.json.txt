@@ -1,0 +1,38 @@
+{
+  "name": "Nadynul Arsy",
+  "short_name": "Nadynul Arsy",
+  "start_url": "https://nadynbabagi.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-fgNo08qRe_8/XSkenBzOPQI/AAAAAAAADQ4/LUJlxNHL0RsQZbC7GuVGxYWG1DcN71-1gCLcBGAs/s48/Pavicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fgNo08qRe_8/XSkenBzOPQI/AAAAAAAADQ4/LUJlxNHL0RsQZbC7GuVGxYWG1DcN71-1gCLcBGAs/s72/Pavicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fgNo08qRe_8/XSkenBzOPQI/AAAAAAAADQ4/LUJlxNHL0RsQZbC7GuVGxYWG1DcN71-1gCLcBGAs/s96/Pavicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fgNo08qRe_8/XSkenBzOPQI/AAAAAAAADQ4/LUJlxNHL0RsQZbC7GuVGxYWG1DcN71-1gCLcBGAs/s144/Pavicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fgNo08qRe_8/XSkenBzOPQI/AAAAAAAADQ4/LUJlxNHL0RsQZbC7GuVGxYWG1DcN71-1gCLcBGAs/s168/Pavicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fgNo08qRe_8/XSkenBzOPQI/AAAAAAAADQ4/LUJlxNHL0RsQZbC7GuVGxYWG1DcN71-1gCLcBGAs/s192/Pavicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fgNo08qRe_8/XSkenBzOPQI/AAAAAAAADQ4/LUJlxNHL0RsQZbC7GuVGxYWG1DcN71-1gCLcBGAs/s512/Pavicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
